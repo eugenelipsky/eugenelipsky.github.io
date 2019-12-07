@@ -309,6 +309,16 @@ a {
     background-color: #4a8de8;
 }
 
+.logos__inner {
+    padding: 110px 0;
+}
+
+.logos__items {
+    display: flex;
+    justify-content: space-between;
+}
+
+
 .footer {
     background-image: url("../images/footer_background.png");
     padding: 80px 0 125px;
