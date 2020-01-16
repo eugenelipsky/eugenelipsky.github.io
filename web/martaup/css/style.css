@@ -193,7 +193,7 @@ a {
 .advantages {
     padding-top: 64px;
     background-color: #f4f9fd;
-    background-image: url(/images/advantages-bg.svg);
+    background-image: url(../images/advantages-bg.svg);
     background-repeat: no-repeat;
     background-position: center right;
 }
@@ -206,20 +206,20 @@ a {
 
 .advantages-box--right .advantages-box__info {
     order: 1;
-    background-image: url(/images/title-bg-2.svg);
+    background-image: url(../images/title-bg-2.svg);
     background-position: 22px 130px;
 }
 
 .advantages-box__info {
     max-width: 456px;
     padding-top: 60px;
-    background-image: url(/images/title-bg-1.svg);
+    background-image: url(../images/title-bg-1.svg);
     background-repeat: no-repeat;
     background-position: 22px 76px;
 }
 
 .advantages-box__info--bg {
-    background-image: url(/images/title-bg-3.svg);
+    background-image: url(../images/title-bg-3.svg);
     background-position: 5px 105px;
 }
 
@@ -243,7 +243,7 @@ a {
 .advantages-box__images {}
 
 .reviews {
-    background-image: url(/images/reviews-bg.jpg);
+    background-image: url(../images/reviews-bg.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
