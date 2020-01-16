@@ -26,7 +26,7 @@ a {
 }
 
 .header {
-    background-image: url("/images/header-bg.jpg");
+    background-image: url("images/header-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -148,7 +148,7 @@ a {
     height: 66px;
     background-color: #ED4C5C;
     border-radius: 50%;
-    background-image: url("/images/play-icon.png");
+    background-image: url("images/play-icon.png");
     background-repeat: no-repeat;
     background-position: center center;
     left: -33px;
