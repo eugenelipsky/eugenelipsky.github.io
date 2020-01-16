@@ -75,8 +75,6 @@ a {
     padding-top: 110px;
 }
 
-.header-slider__item {}
-
 .header-slider__item-content {
     display: flex;
     justify-content: space-between;
