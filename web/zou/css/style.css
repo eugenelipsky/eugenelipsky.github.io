@@ -392,6 +392,7 @@ a {
 .reviews__inner {
     padding-top: 267px;
     padding-bottom: 304px;
+    overflow: hidden;
 }
 
 .review-title {
