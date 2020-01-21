@@ -296,9 +296,7 @@ a {
 
 
 .steps__inner {
-    background-image: url('../images/steps-bg.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #66bb6a;
     margin: 0 auto;
     align-items: center;
 }
