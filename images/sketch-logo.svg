@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="89px" viewBox="0 0 89 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Custom Preset 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Custom-Preset-17" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sketch-logo" transform="translate(0.000000, 3.000000)" fill-rule="nonzero">
+            <polygon id="Path" fill="#FFD54F" points="17 30 17 5.17926089 45 0 73 5.17926089 73 30"></polygon>
+            <polygon id="Path" fill="#FFECB3" points="17 30 45 0 73 30"></polygon>
+            <polygon id="Path" fill="#FFA000" points="0 31 44.5 83 89 31"></polygon>
+            <polygon id="Path" fill="#FFCA28" points="17 31 45 83 73 31"></polygon>
+            <g id="Group" transform="translate(0.000000, 6.000000)" fill="#FFC107">
+                <polygon id="Path" points="0 24.8317241 16.6875 0.00413793103 16.6875 24.8317241"></polygon>
+                <polygon id="Path" points="72.3125 0.00413793103 72.3125 24.8317241 89 24.8317241"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
