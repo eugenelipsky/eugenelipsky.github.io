@@ -23,6 +23,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Gilroy', sans-serif;
     font-weight: 500;
@@ -189,12 +193,28 @@ li {
     padding-bottom: 45px;
 }
 
+.portfolio__item-img img {
+    transition: all .3s;
+}
+
+.portfolio__item-img img:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .3);
+    transform: scale(1.02);
+}
+
 .portfolio__item-link {
     padding-bottom: 99px;
 }
 
 .portfolio__item-link a {
-    text-decoration: underline;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #000;
+    transition: all .3s;
+}
+
+.portfolio__item-link a:hover {
+    padding-bottom: 3px;
+    border-bottom: 2px solid #1de9b6;
 }
 
 .contacts {
