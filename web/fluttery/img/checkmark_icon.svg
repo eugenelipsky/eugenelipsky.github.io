@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon/icon-tick</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-135.000000, -2570.000000)">
+            <g id="info-section" transform="translate(135.000000, 2341.000000)">
+                <g id="list" transform="translate(0.000000, 225.000000)">
+                    <g id="icon/icon-tick" transform="translate(0.000000, 4.000000)">
+                        <rect id="frame" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M5.70759416,16 C5.20757451,16 4.73466989,15.7673127 4.43065979,15.3682242 L0.324799898,9.9745865 C-0.209228442,9.27309589 -0.0702064342,8.27423177 0.635014295,7.74279949 C1.34138397,7.21113863 2.34487009,7.35033961 2.87912822,8.05137307 L5.579602,11.5983693 L13.0381257,0.750750669 C13.5057451,0.00445974432 14.4931461,-0.223884707 15.2450139,0.240575679 C15.9959625,0.705493211 16.2252913,1.68835722 15.7574421,2.43533386 L7.06748216,15.2491376 C6.78874878,15.6946264 6.30757178,15.974857 5.78066688,15.9986286 C5.75607952,15.9995429 5.73195173,16 5.70759416,16 Z" id="Path" fill="#FF7F57" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

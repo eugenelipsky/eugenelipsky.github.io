@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="36px" viewBox="0 0 130 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="F" fill="#2557AB" fill-rule="nonzero" transform="translate(12.000000, 18.000000) scale(-1, -1) translate(-12.000000, -18.000000) " points="8.70386266 7.42372881 8.70386266 14.8474576 22.8154506 14.8474576 22.8154506 22.0169492 8.70386266 22.0169492 8.70386266 36 0 36 0 0 24 0 24 7.42372881"></polygon>
+        <text id="FLUTTERY" font-family="NexaBold, Nexa Bold" font-size="17" font-weight="bold" line-spacing="16" fill="#2557AB">
+            <tspan x="28" y="17">FLUTTERY</tspan>
+        </text>
+        <text id="AGENCY" font-family="NexaBold, Nexa Bold" font-size="17" font-weight="bold" line-spacing="16" fill="#2557AB">
+            <tspan x="28" y="33">AGENCY</tspan>
+        </text>
+    </g>
+</svg>
