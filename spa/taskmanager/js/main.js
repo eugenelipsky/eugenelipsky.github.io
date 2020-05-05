@@ -193,9 +193,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
                                 deleteTask(newTaskItem.id, newDeleteButton.dataset.status);
                                 newTaskItem.remove()
                                 console.log(tasklist)
-                            } else {
-                                confirmDelete.cl
-                            }
+                            } 
                         }
                     })
                 })
