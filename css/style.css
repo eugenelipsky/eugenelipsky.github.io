@@ -240,6 +240,7 @@ li {
     padding: 13px 30px;
     color: #fff;
     border-radius: 25px;
+    transition: all .5s;
 }
 
 .contacts__button:hover {
